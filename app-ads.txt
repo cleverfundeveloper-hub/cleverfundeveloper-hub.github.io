@@ -1,0 +1,7 @@
+# app-ads.txt для APP_NAME
+# Если используешь AdMob, сюда добавляется строка с твоим Publisher ID.
+# Пример для AdMob:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# Пока AdMob отключён, можно оставить заглушку или Appodeal-запись (если будет в кабинете).
+contact=cleverfun.developer@gmail.com
